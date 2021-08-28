@@ -41,7 +41,7 @@
                 <v-col cols="12" class="px-3">
                   <v-textarea
                       v-model="message"
-                      label="Mesage"
+                      label="Message"
                       required
                   ></v-textarea>
                 </v-col>
